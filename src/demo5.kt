@@ -9,6 +9,6 @@ fun main(){
         }
         return result
     }
-    val conteo = findWord(text = "La palAbra esta implicita", input = "a")
+    val conteo = findWord(text = "La palAbra esta impplicita", input = "a")
     print(conteo)
 }
